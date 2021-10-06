@@ -14,9 +14,9 @@ You can do this by executing the following setup instructions:
 4. Commit the change with a commit message.
 
 ### Scenario / Resolution
-At this point, if you have set everything up correctly, you have committed your changes directly to the main branch rather than a feature branch. Committing to feature branches is the preferred practice, and in many cases, branch policies will prohibit pushing commits directly to main. You will now need to resolve this.
+At this point, if you have set everything up correctly, you have committed your changes directly to the main branch rather than a feature branch. Committing to feature branches is the preferred practice, and in many cases, branch policies will prohibit pushing commits directly to main. As a kata exercise, you will now need to resolve this.
 
 ### Kata Instructions
 1. Don't panic.  There are ways to resolve this.  
 2. Visit public resources or use git help to move the latest commit to another branch.
-3. Remember to return the main branch to a clear state (the commit prior to your change).
+3. Remember to return the main branch to the proper state (the commit prior to your change).
